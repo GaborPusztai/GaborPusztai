@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @GaborPusztai
 - 👀 I’m interested in Web development, Front-end, Back-end or Full-stack
-- 🌱 I’m currently learning: Javascript, HTML, CSS, React, Node.js
-- 💞️ I’m looking to collaborate with a dynamic team.
-- 📫 How to reach me : e-mail: gpusztai94@gmail.com
+- 🌱 constantly learning
+- 💞️ looking to collaborate with a dynamic team.
+- 📫 e-mail: gpusztai94@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
