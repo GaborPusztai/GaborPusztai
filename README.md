@@ -6,7 +6,7 @@
 - 💞️ Looking to collaborate with a dynamic team.
 - 📫 e-mail: gpusztai94@gmail.com
 - 😄 Pronouns: Gabi
-- ⚡ Fun fact: ...
+<!--- - ⚡ Fun fact: ... --->
 
 <!---
 GaborPusztai/GaborPusztai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
