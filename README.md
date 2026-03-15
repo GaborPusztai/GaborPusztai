@@ -5,7 +5,7 @@
 - 👀 Currently studying at [Zero to Mastery Academy](https://zerotomastery.io/)
 - 🤝 Looking to collaborate with a dynamic team.
 - 📫 e-mail: gpusztai94@gmail.com
-- 😄 Pronouns: Gabi
+
 <!--- - ⚡ Fun fact: ... --->
 
 <!---
